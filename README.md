@@ -13,3 +13,4 @@ A quick project on learning to use react native by creating an albums applicatio
 * modify state of items in store
 * use animations and transitions
 * using <ListView> for efficient rendering
+* utilising React lifecycle methods
